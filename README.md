@@ -14,8 +14,8 @@ The SQL Script Database Copy And Full Backup File.
 
 ## Jak użyć
  
- -Użyj Sql Server Managment Studio i zaloguj sie na przykład poprzez Identyfikacje Windows
- -Kliknij prawym przyciskiem na Databases i Przywróć Bazę
- -Jeżeli utworzyłeś poprzez Dodanie bazy, możesz użyć skryptów SQL
- -Jeżeli nazwałeś bazę - PostawNaMilion użyj skryptu
- -USE[PostawNaMilion] jeżeli nazwa bazy jest taka sama, jeżeli nie zmień w use na twoją nazwę
+ - Użyj Sql Server Managment Studio i zaloguj sie na przykład poprzez Identyfikacje Windows
+ - Kliknij prawym przyciskiem na Databases i Przywróć Bazę
+ - Jeżeli utworzyłeś poprzez Dodanie bazy, możesz użyć skryptów SQL
+ - Jeżeli nazwałeś bazę - PostawNaMilion użyj skryptu
+ - USE[PostawNaMilion] jeżeli nazwa bazy jest taka sama, jeżeli nie zmień w use na twoją nazwę
